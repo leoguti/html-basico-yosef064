@@ -2,33 +2,32 @@
 
 ## ¿Qué vas a hacer?
 
-Vas a activar **GitHub Pages** en tu repositorio para que tu página `mi-pagina.html` sea visible para cualquier persona en el mundo.
+Tu repositorio ya tiene **GitHub Pages** activado (lo hizo el profesor). Eso significa que tu página ya está en internet. Solo necesitas ver el enlace correcto.
 
-## Paso 1: Activar GitHub Pages
+## Paso 1: Ver tu página en vivo
 
-1. Ve a la pestaña **Settings** (⚙️) de este repositorio
-2. En el menú de la izquierda, busca **Pages**
-3. En **"Source"**, selecciona **"Deploy from a branch"**
-4. En **"Branch"**, selecciona **"main"** y deja **"/ (root)"**
-5. Clic en **Save**
-6. Espera 1-2 minutos
-
-## Paso 2: Ver tu página en vivo
-
-Tu página estará en:
+Tu página `mi-pagina.html` ya está publicada en:
 
 ```
-https://[TU-USUARIO].github.io/html-basico/mi-pagina.html
+https://leoguti.github.io/html-basico-[TU-USUARIO]/mi-pagina.html
 ```
 
-Cambia `[TU-USUARIO]` por tu nombre de usuario de GitHub.
+Cambia `[TU-USUARIO]` por tu nombre de usuario de GitHub. Ejemplos:
 
-Por ejemplo, si tu usuario es `NadiaM3100`, tu página estará en:
-```
-https://NadiaM3100.github.io/html-basico/mi-pagina.html
-```
+| Estudiante | Enlace |
+|---|---|
+| Nadia | https://leoguti.github.io/html-basico-NadiaM3100/mi-pagina.html |
+| Brayan | https://leoguti.github.io/html-basico-EsneiderCastro/mi-pagina.html |
+| Cristian | https://leoguti.github.io/html-basico-CristianTibaduiza/mi-pagina.html |
+| Camilo | https://leoguti.github.io/html-basico-JuanCamilo777Pro/mi-pagina.html |
+| Ana María | https://leoguti.github.io/html-basico-AnaBeco/mi-pagina.html |
+| Yosef | https://leoguti.github.io/html-basico-yosef064/mi-pagina.html |
+| Edward | https://leoguti.github.io/html-basico-EDWARD-rincon/mi-pagina.html |
+| Stefania | https://leoguti.github.io/html-basico-StefaniaAlvarez/mi-pagina.html |
 
-## Paso 3: Crear una página de inicio
+**Nota:** Después de cada commit, GitHub Pages tarda 1-2 minutos en actualizar. Ten paciencia.
+
+## Paso 2: Crear una página de inicio
 
 Crea un archivo llamado `index.html` con este contenido:
 
@@ -57,7 +56,7 @@ Commit con mensaje: `Crear página de inicio index.html`
 
 Ahora tu sitio web tiene una portada en:
 ```
-https://[TU-USUARIO].github.io/html-basico/
+https://leoguti.github.io/html-basico-[TU-USUARIO]/
 ```
 
 ## ¿Por qué se llama index.html?
