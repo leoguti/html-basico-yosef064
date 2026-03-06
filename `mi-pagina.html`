@@ -1,0 +1,13 @@
+html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Mi Primera Página</title>
+</head>
+<body>
+    <h1>Hola, soy [yosef patiño ]</h1>
+    <p>`Crear mi primera página HTML`.</p>
+    <p>Estudio en el Colegio Salesiano de Duitama.</p>
+</body>
+</html>
