@@ -19,26 +19,29 @@ Tu página debe tener:
 
 ## Cómo hacerlo
 
-1. Abre tu repositorio en github.dev (presiona `.` en tu repo)
-2. Abre el chat de Copilot
-3. Pídele algo como:
+1. Ve a **https://github.com/copilot**
+2. Pídele algo como:
 
 ```
-Crea una página HTML llamada mi-horario.html con mi horario de clases.
+Crea una página HTML completa llamada mi-horario.html con mi horario de clases.
 Quiero una tabla de lunes a viernes con las horas de 7am a 1pm.
 Cada materia debe tener un color de fondo diferente.
-Usa CSS para que se vea bonito.
+Usa CSS dentro del mismo archivo para que se vea bonito.
 Mi nombre es [TU NOMBRE] y estudio en el Colegio Salesiano de Duitama.
 Agrega un pie de página que diga "Hecho con HTML + Copilot | Escuela OSM Salesiano 2026"
 ```
 
-4. **Revisa el código que genera.** Deberías reconocer:
-   - `<table>`, `<tr>`, `<td>`, `<th>` (los aprendiste en la Tarea 5)
-   - `<style>` (esto es CSS, es nuevo. Controla los colores y el diseño)
-   - `background-color` (el color de fondo de cada celda)
+3. **Copia** todo el código que Copilot generó
+4. Ve a tu repo → **Add file** → **Create new file**
+5. Nombre del archivo: `mi-horario.html`
+6. **Pega** el código de Copilot
+7. **Cambia los datos de ejemplo** por tu horario real
+8. Commit con mensaje: `Crear horario con Copilot`
 
-5. **Cambia los datos de ejemplo** por tu horario real
-6. Haz commit con mensaje: `Crear horario con Copilot`
+**Revisa el código que genera.** Deberías reconocer:
+- `<table>`, `<tr>`, `<td>`, `<th>` (los aprendiste en la Tarea 5)
+- `<style>` (esto es CSS, es nuevo. Controla los colores y el diseño)
+- `background-color` (el color de fondo de cada celda)
 
 ## Verificar
 
