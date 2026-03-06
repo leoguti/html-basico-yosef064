@@ -17,6 +17,7 @@ Sigue las tareas en orden. Cada una está en un archivo separado:
 | 3 | Publicar tu página en internet | [tarea-3.md](tarea-3.md) |
 | 4 | Romper y arreglar (experimento) | [tarea-4.md](tarea-4.md) |
 | 5 | Tu primer contacto con IA | [tarea-5.md](tarea-5.md) |
+| 6 | Reto: Horario con estilo (Copilot) | [tarea-6.md](tarea-6.md) |
 
 ## ¿Cómo editar archivos aquí?
 
