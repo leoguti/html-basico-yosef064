@@ -6,6 +6,19 @@ Porque cuando le pidas a una IA que escriba código, necesitas **entender lo que
 
 Ahora que sabes HTML básico, puedes usar IA con criterio.
 
+## Paso 0: Activar Copilot en tu cuenta (solo la primera vez)
+
+**IMPORTANTE:** Antes de empezar, necesitas activar Copilot Free en tu cuenta de GitHub. Solo se hace una vez.
+
+1. Ve a **github.com** e inicia sesión
+2. Haz clic en tu **foto de perfil** (arriba a la derecha)
+3. Haz clic en **"Copilot settings"**
+   - O ve directo a: https://github.com/settings/copilot
+4. Haz clic en **"Start using Copilot Free"**
+5. Acepta los términos si te lo pide
+
+¡Listo! Ya tienes Copilot activado. Esto incluye 50 chats gratis al mes.
+
 ## Paso 1: Abrir el editor en el navegador
 
 1. Abre tu repositorio en el navegador (la página principal donde ves tus archivos)
